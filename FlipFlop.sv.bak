@@ -1,0 +1,19 @@
+module FlipFlop(
+    input  logic clk,
+    input  logic reset,
+    input  logic signal_in,         // Entrada estabilizada (button_stable)
+    output logic falling_edge       // Pulso 1 ciclo cuando ocurre un flanco negativo
+);
+
+    logic prev;
+
+    always_ff @(posedge clk or posedge reset) begin
+        if (reset)
+            prev <= 1;
+        else
+            prev <= signal_in;
+    end
+
+    assign falling_edge = (prev == 1 && signal_in == 0);
+
+endmodule

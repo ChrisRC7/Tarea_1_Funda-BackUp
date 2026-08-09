@@ -1,0 +1,200 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/simulation/modelsim
+vBcdTo7Segment
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1746232054
+!i10b 1
+!s100 >BL?KRQ>LPlGQbd4[l@Qa0
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I44V2DQ2m<SL:zVU85[_Eb2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1746230113
+8C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/BcdTo7Segment.sv
+FC:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/BcdTo7Segment.sv
+!i122 2
+L0 1 21
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1746232054.000000
+!s107 C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/BcdTo7Segment.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1|C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/BcdTo7Segment.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work {+incdir+C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1}
+Z9 tCvgOpt 0
+n@bcd@to7@segment
+vButton_debounce
+R1
+R2
+!i10b 1
+!s100 oY0b@lO;oTmiNb9Tc<=>G3
+R3
+IcJ7hKhgmTgTd?BEgXl[:<0
+R4
+S1
+R0
+Z10 w1746231377
+Z11 8C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/Button_debounce.sv
+Z12 FC:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/Button_debounce.sv
+!i122 0
+L0 5 19
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/Button_debounce.sv|
+Z14 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1|C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/Button_debounce.sv|
+!i113 1
+R7
+R8
+R9
+n@button_debounce
+vD_FF_with_Enable
+R1
+R2
+!i10b 1
+!s100 zZ]ob=2dAnziM_De;bEME3
+R3
+ITz:QCPCnIX4a`[TXNfUN61
+R4
+S1
+R0
+R10
+R11
+R12
+!i122 0
+L0 45 10
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+R9
+n@d_@f@f_with_@enable
+vDecoderToBcd
+R1
+R2
+!i10b 1
+!s100 ;Uo8WMS=JGFaeS=kJ9L[K0
+R3
+I5?JnS6mOmz>l=5l4d@:]E3
+R4
+S1
+R0
+w1746230533
+8C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/DecoderToBcd.sv
+FC:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/DecoderToBcd.sv
+!i122 1
+L0 1 11
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/DecoderToBcd.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1|C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/DecoderToBcd.sv|
+!i113 1
+R7
+R8
+R9
+n@decoder@to@bcd
+vSlow_Clock_Enable
+R1
+R2
+!i10b 1
+!s100 W0f3bMXW>L3VhA1jYJZV]1
+R3
+I<lMMF6N7=zKZ_6<@6IFen3
+R4
+S1
+R0
+R10
+R11
+R12
+!i122 0
+L0 26 17
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+R9
+n@slow_@clock_@enable
+vTopLevel
+R1
+R2
+!i10b 1
+!s100 89C[R4C2i1dVJEO3TH2AC0
+R3
+I<g3GKH=8859>ijCi>af<n3
+R4
+S1
+R0
+w1746231930
+8C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel.sv
+FC:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel.sv
+!i122 3
+L0 1 51
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1|C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel.sv|
+!i113 1
+R7
+R8
+R9
+n@top@level
+vTopLevel_tb
+R1
+!s110 1746232055
+!i10b 1
+!s100 1>7_?7@ZDF8UDC:5iU5A]1
+R3
+Im`Y]fkK7G77<iP2j[4lLS1
+R4
+S1
+R0
+w1746231931
+8C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel_tb.sv
+FC:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel_tb.sv
+!i122 4
+L0 1 58
+R5
+r1
+!s85 0
+31
+!s108 1746232055.000000
+!s107 C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel_tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1|C:/Users/zikito/Downloads/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Rbolanos-Amunoz-Crodriguez-digital-design-lab-2024-main/Pregunta 1/TopLevel_tb.sv|
+!i113 1
+R7
+R8
+R9
+n@top@level_tb

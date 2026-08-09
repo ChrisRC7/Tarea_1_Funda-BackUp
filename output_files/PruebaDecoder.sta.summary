@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -4.255
+TNS   : -85.886
+
+Type  : Slow 1100mV 85C Model Setup 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : -1.389
+TNS   : -2.024
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.428
+TNS   : -11.740
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : -0.394
+TNS   : -1.035
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -4.310
+TNS   : -83.983
+
+Type  : Slow 1100mV 0C Model Setup 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : -1.341
+TNS   : -1.893
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : 0.229
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : 0.263
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.454
+TNS   : -12.571
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : -0.394
+TNS   : -1.150
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -3.318
+TNS   : -53.459
+
+Type  : Fast 1100mV 85C Model Setup 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : -0.492
+TNS   : -0.577
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.478
+TNS   : -2.443
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -2.792
+TNS   : -42.933
+
+Type  : Fast 1100mV 0C Model Setup 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : -0.414
+TNS   : -0.444
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.482
+TNS   : -2.410
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Button_debounce:debounce_inst|debounced_state_reg'
+Slack : 0.140
+TNS   : 0.000
+
+------------------------------------------------------------
